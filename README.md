@@ -1,5 +1,9 @@
 # ESO209-dynamics
 
+Course Repository for ESO209 Dynamics done under Professor Ishan Sharma, Department of Mechanical Engineering.<br>
+Department mandatory course for Mechanical and Aerospace undergrads at IIT Kanpur.
+All the course material belongs to Professor Ishan Sharma.
+
 ## Lectures
 
 L1 - Vectors, CS, Index Notatation<br>
