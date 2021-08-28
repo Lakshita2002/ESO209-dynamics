@@ -16,3 +16,6 @@ L5 - Rotation Tensor, Change of coordinates, Rigid Body Kinematics, Euler's Theo
 ### Week 4
 L6 - Rigid Body Kinematics: Orientation, Axis-Angle Formula<br>
 L7 - Rigid Body Kinematics: Euler Angle Sequence<br>
+### Week 5
+L8 - Rigid Body Kinematics: Rate of change of Orientation in 2D and 3D; Angular Velocity
+L9 - Rigid Body Kinematics: Angular Velocity, Examples, Relation to Euler Angle Sequence
