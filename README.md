@@ -19,3 +19,6 @@ L7 - Rigid Body Kinematics: Euler Angle Sequence<br>
 ### Week 5
 L8 - Rigid Body Kinematics: Rate of change of Orientation in 2D and 3D; Angular Velocity<br>
 L9 - Rigid Body Kinematics: Angular Velocity, Examples, Relation to Euler Angle Sequence<br>
+### Week 6
+L10 - Rigid Body Kinematics: Kinematics in a Rotating CS; Velocity Analysis<br>
+L11 - Rigid Body Kinematics: Velocity Analysis Examples; Five-term Acceleration Formula; Applications<br>
