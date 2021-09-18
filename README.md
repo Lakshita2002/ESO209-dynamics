@@ -22,3 +22,5 @@ L9 - Rigid Body Kinematics: Angular Velocity, Examples, Relation to Euler Angle 
 ### Week 6
 L10 - Rigid Body Kinematics: Kinematics in a Rotating CS; Velocity Analysis<br>
 L11 - Rigid Body Kinematics: Velocity Analysis Examples; Five-term Acceleration Formula; Applications<br>
+### Week 7
+L12 - Rigid Body Kinematics: Acceleration Analysis Examples; Rolling Motion Example<br>
