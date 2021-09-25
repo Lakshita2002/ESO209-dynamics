@@ -24,3 +24,6 @@ L10 - Rigid Body Kinematics: Kinematics in a Rotating CS; Velocity Analysis<br>
 L11 - Rigid Body Kinematics: Velocity Analysis Examples; Five-term Acceleration Formula; Applications<br>
 ### Week 7
 L12 - Rigid Body Kinematics: Acceleration Analysis Examples; Rolling Motion Example<br>
+### Week 8
+L13 - Rigid Body Kinetics: Rigid Body Motion; Kinetic Quantities; Moment of Inertia Tensor<br>
+L14 - Rigid Body Kinetics: Inertial CS; Linear Momentum Balance; Angular Momentum Balance<br>
