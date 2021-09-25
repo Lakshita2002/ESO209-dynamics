@@ -4,8 +4,9 @@ Course Repository for ESO209 Dynamics done under Professor Ishan Sharma, Departm
 Department mandatory course for Mechanical and Aerospace undergrads at IIT Kanpur.
 All the course material belongs to Professor Ishan Sharma.
 
+### ESO209 - Your Way to Irresistability
 ![cartoon](assets/axisangleformulacartoon.png)<br>
-
+### Le Axis Angle Formula
 ![cartoon](/assets/axisangleformula.png)<br>
 
 ## Lectures
