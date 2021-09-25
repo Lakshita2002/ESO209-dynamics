@@ -4,6 +4,10 @@ Course Repository for ESO209 Dynamics done under Professor Ishan Sharma, Departm
 Department mandatory course for Mechanical and Aerospace undergrads at IIT Kanpur.
 All the course material belongs to Professor Ishan Sharma.
 
+![cartoon](/assets/axisangleformulacartoon.)<br>
+
+![cartoon](/assets/axisangleformulacartoon.)<br>
+
 ## Lectures
 ### Week 1
 L1 - Vectors, CS, Index Notatation<br>
