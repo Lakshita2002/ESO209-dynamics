@@ -34,4 +34,12 @@ L13 - Rigid Body Kinetics: Rigid Body Motion; Kinetic Quantities; Moment of Iner
 L14 - Rigid Body Kinetics: Inertial CS; Linear Momentum Balance; Angular Momentum Balance<br>
 ### Week 9
 L15 - Rigid Body Kinetics: Examples; Balance Laws: Power<br>
-L16 - Rigid Body Kinetics: Example of Power Balance
+L16 - Rigid Body Kinetics: Example of Power Balance<br>
+### Week 10
+L16 - Rigid Body Kinetics: Example of Power Balance<br>
+L17 - Rigid Body in Space: Stability; Poinsot Construction; Effect of Energy Dissipation<br>
+### Week 11
+L18 - Tops & Gyroscopes<br>
+L19 - More on Tops<br>
+### Week 12
+L20 - Collisions: Impulse-Momentum Relations, Elastic and Inelastic Collisions<br>
